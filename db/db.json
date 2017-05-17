@@ -1,0 +1,77 @@
+{
+	"asset": [{
+			"assetTag": "12345",
+			"items": [{
+					"partNo": "PartA1-1",
+					"skuNo": 11,
+					"qty": 1
+				}, {
+					"partNo": "PartB1-1",
+					"skuNo": 12,
+					"qty": 1
+				}, {
+					"partNo": "PartC1-1",
+					"skuNo": 13,
+					"qty": 1
+				}
+			]
+		},{
+			"assetTag": "12346",
+			"items": [{
+					"partNo": "PartA2-1",
+					"skuNo": 21,
+					"qty": 1
+				}, {
+					"partNo": "PartB2-1",
+					"skuNo": 22,
+					"qty": 1
+				}, {
+					"partNo": "PartC2-1",
+					"skuNo": 23,
+					"qty": 1
+				}
+			]
+		},{
+			"assetTag": "12347",
+			"items": [{
+					"partNo": "PartA3-1",
+					"skuNo": 31,
+					"qty": 1
+				}, {
+					"partNo": "PartB3-1",
+					"skuNo": 32,
+					"qty": 1
+				}, {
+					"partNo": "PartC3-1",
+					"skuNo": 33,
+					"qty": 1
+				}
+			]
+		},{
+			"assetTag": "12348",
+			"items": [{
+					"partNo": "PartA4-1",
+					"skuNo": 41,
+					"qty": 1
+				}, {
+					"partNo": "PartB4-1",
+					"skuNo": 42,
+					"qty": 1
+				}, {
+					"partNo": "PartC4-1",
+					"skuNo": 43,
+					"qty": 1
+				}
+			]
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
+}
